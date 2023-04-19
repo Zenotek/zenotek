@@ -32,6 +32,11 @@
 			<li>☑️ Google Cloud Professional DevOps Engineer</li>
 			<li>☑️ CCSP</li>
 	</ul>
+	<h2>In-Progress</h2>
+	<ul>
+			<li>☑️ Google Cloud Professional DevOps Engineer</li>
+			<li>☑️ CCSP</li>
+	</ul>
 	<h2>Contact Me</h2>
 	<p>You can reach out to me via <a href="mailto:stephenorozcos@gmail.com">stephenorozcos@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/stephenorozco/">LinkedIn</a>.</p>
 </body>
