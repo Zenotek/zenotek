@@ -14,7 +14,7 @@
 			<li>👨‍💻 Programming Languages (Python, PowerShell, Bash, YAML)</li>
 			<li>🌩️ Cloud architecture design and implementation (GCP)</li>
 			<li>🤖 Automation and deployment tools (such as Terraform and Ansible)</li>
-			<li>☁️ Google Cloud Platform Services (Compute Engine, App Engine, Kubernetes Engine, Cloud Storage, Cloud SQL, BigQuery, Dataflow, Pub/Sub </li>
+			<li>☁️ Google Cloud Platform Services (Compute Engine, App Engine, Kubernetes Engine, Cloud Storage, Cloud SQL, BigQuery, Dataflow, Pub/Sub) </li>
 			<li>🔑 Google Cloud IAM and Security (Identity and Access Management, Cloud Armor, Cloud Key Management Service)</li>
 			<li>🔍 Google Cloud Monitoring and Logging (Cloud Monitoring, Cloud Logging, Stackdriver)</li>
 			<li>🧪 Google Cloud DevOps (Cloud Build, Container Registry, Deployment Manager)</li>
