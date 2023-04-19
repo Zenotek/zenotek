@@ -29,8 +29,6 @@
 			<li>✅ Google Cloud Associate Cloud Engineer</li>
 			<li>✅ CompTIA Security+</li>
 			<li>✅ CompTIA Network+</li>
-			<li>☑️ Google Cloud Professional DevOps Engineer</li>
-			<li>☑️ CCSP</li>
 	</ul>
 	<h2>In-Progress</h2>
 	<ul>
