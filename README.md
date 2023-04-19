@@ -1,5 +1,5 @@
 <body>
-	<h1>Hi there 👋, I'm Stephen Orozco!</h1>
+	<h1>Hi there 👋, I'm Stephen!</h1>
 	<img src="https://media.licdn.com/dms/image/D5616AQGLey6iVzhbqA/profile-displaybackgroundimage-shrink_350_1400/0/1677831212657?e=1687392000&amp;v=beta&amp;t=djQOvNWaSwA0AHVTyo0T13LJd0rtPU-qpIGBwju0F68" alt="Profile picture">
 	<p>As a Cloud Engineer in the Sports and Entertainment industry, I am driven by a passion for innovation and a commitment to delivering top-notch solutions. With extensive experience in designing, implementing, and maintaining cloud-based systems for the sports industry, I have developed a strong skill set in 🌩️ cloud architecture, 🤖 automation, and 🔒 security.</p>
 	<h2>About Me</h2>
