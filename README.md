@@ -11,25 +11,25 @@
 	</ul>
 	<h2>Skills</h2>
 	<ul>
-	<li>👨‍💻 Programming/Scripting Languages (Python, PowerShell, Bash, YAML, SQL)</li>
-	<li>💻 Operating Systems (Linux, Windows Server)</li>
-	<li>🚀 Infrastructure as Code (IaC) tools (Terraform, Kubernetes (GKE))</li>
-	<li>🤖 Automation and deployment tools (Ansible, Bitbucket Pipelines, CI/CD (Continuous Integration/Continuous Deployment))</li>
-	<li>🔑 Version Control (GitHub, Bitbucket)</li>
-	<li>🌐 APIs (Rest APIs)</li>
-	<li>🖥️ Virtualization (VMware, Hyper-V, Nutanix, Cisco Hyperflex)</li>
-	<li>🔧 Productivity Suites (Office 365, Google Workspace)</li>
-	<li>🔑 Identity and Access Management (Okta, Azure AD, Google Cloud Identity)</li>
-	<li>🗃️ Database management systems (MySQL, PostgreSQL)</li>
+		<li>👨‍💻 Programming/Scripting Languages (Python, PowerShell, Bash, YAML, SQL)</li>
+		<li>💻 Operating Systems (Linux, Windows Server)</li>
+		<li>🚀 Infrastructure as Code (IaC) tools (Terraform, Kubernetes (GKE))</li>
+		<li>🤖 Automation and deployment tools (Ansible, Bitbucket Pipelines, CI/CD (Continuous Integration/Continuous Deployment))</li>
+		<li>🔑 Version Control (GitHub, Bitbucket)</li>
+		<li>🌐 APIs (Rest APIs)</li>
+		<li>🖥️ Virtualization (VMware, Hyper-V, Nutanix, Cisco Hyperflex)</li>
+		<li>🔧 Productivity Suites (Office 365, Google Workspace)</li>
+		<li>🔑 Identity and Access Management (Okta, Azure AD, Google Cloud Identity)</li>
+		<li>🗃️ Database management systems (MySQL, PostgreSQL)</li>
 
-	<li>☁️ Google Cloud Platform Services (Compute Engine, App Engine, Kubernetes Engine, Cloud Storage, Cloud SQL, BigQuery, Dataflow, Pub/Sub)</li>
-	<li>🔑 Google Cloud IAM and Security (Identity and Access Management, Cloud Armor, Cloud Key Management Service)</li>
-	<li>🔍 Google Cloud Monitoring and Logging (Cloud Monitoring, Cloud Logging)</li>
-	<li>🧪 Google Cloud DevOps (Cloud Build, Artifact Registry, Container Registry, Deployment Manager)</li>
-	<li>🔐 Google Cloud Security and Compliance (Security Command Center, Compliance Reports, DLP API)</li>
-	<li>🗄️ Google Cloud Data Storage (Cloud Storage, Cloud SQL, Cloud Spanner, Cloud Bigtable)</li>
-	<li>🌐 Google Cloud Networking (Virtual Private Cloud, Cloud Load Balancing, Cloud CDN)</li>
-	<li>🚀 Google Cloud Serverless Computing (Cloud Functions, Cloud Run, Cloud Tasks)</li>
+		<li>☁️ Google Cloud Platform Services (Compute Engine, App Engine, Kubernetes Engine, Cloud Storage, Cloud SQL, BigQuery, Dataflow, Pub/Sub)</li>
+		<li>🔑 Google Cloud IAM and Security (Identity and Access Management, Cloud Armor, Cloud Key Management Service)</li>
+		<li>🔍 Google Cloud Monitoring and Logging (Cloud Monitoring, Cloud Logging)</li>
+		<li>🧪 Google Cloud DevOps (Cloud Build, Artifact Registry, Container Registry, Deployment Manager)</li>
+		<li>🔐 Google Cloud Security and Compliance (Security Command Center, Compliance Reports, DLP API)</li>
+		<li>🗄️ Google Cloud Data Storage (Cloud Storage, Cloud SQL, Cloud Spanner, Cloud Bigtable)</li>
+		<li>🌐 Google Cloud Networking (Virtual Private Cloud, Cloud Load Balancing, Cloud CDN)</li>
+		<li>🚀 Google Cloud Serverless Computing (Cloud Functions, Cloud Run, Cloud Tasks)</li>
 	</ul>
 	<h2>Certifications</h2>
 	<ul>
