@@ -21,7 +21,6 @@
 		<li>🔧 Productivity Suites (Office 365, Google Workspace)</li>
 		<li>🔑 Identity and Access Management (Okta, Azure AD, Google Cloud Identity)</li>
 		<li>🗃️ Database management systems (MySQL, PostgreSQL)</li>
-
 		<li>☁️ Google Cloud Platform Services (Compute Engine, App Engine, Kubernetes Engine, Cloud Storage, Cloud SQL, BigQuery, Dataflow, Pub/Sub)</li>
 		<li>🔑 Google Cloud IAM and Security (Identity and Access Management, Cloud Armor, Cloud Key Management Service)</li>
 		<li>🔍 Google Cloud Monitoring and Logging (Cloud Monitoring, Cloud Logging)</li>
